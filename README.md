@@ -1,2 +1,1 @@
-# 123000846
-# Nguyễn Thái Phương
+# 123000846 Nguyễn Thái Phương
