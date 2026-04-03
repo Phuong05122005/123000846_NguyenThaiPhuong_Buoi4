@@ -1,0 +1,5 @@
+streamlit
+underthesea
+scipy
+scikit-learn
+joblib
